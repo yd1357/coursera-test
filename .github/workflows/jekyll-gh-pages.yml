@@ -50,4 +50,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v3
   # Theme Name
-  theme: jekyll-theme-modernist
+  # theme: modernist
+  
